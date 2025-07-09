@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class bitwiseOperator {
+public class BitwiseOperator {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
